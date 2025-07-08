@@ -205,12 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with SwiftUI and modern Swift concurrency
 - Thanks to the iOS development community for feedback and contributions
 
-## 📚 Additional Resources
-
-- [Understanding MVI Architecture](https://your-blog-link.com/mvi-architecture)
-- [SwiftUI State Management Best Practices](https://your-blog-link.com/swiftui-state)
-- [Testing MVI Applications](https://your-blog-link.com/testing-mvi)
-
 ---
 
 **Made with ❤️ by [Karan Pal](https://github.com/palkaran)**
