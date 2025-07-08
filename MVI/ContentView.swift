@@ -22,3 +22,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+// User does something → Intent → Model → View → User sees it
+// No shortcuts, no backdoors, predictable
