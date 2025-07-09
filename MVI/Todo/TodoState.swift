@@ -67,6 +67,7 @@ extension TodoState {
         if let isLoading = isLoading { newState.isLoading = isLoading }
         if let isAddingTodo = isAddingTodo { newState.isAddingTodo = isAddingTodo }
         if let editingTodoId = editingTodoId { newState.editingTodoId = editingTodoId }
+        if editingText == "" && editingTodoId == nil { newState.editingTodoId = nil }
         if let editingText = editingText { newState.editingText = editingText }
         return newState
     }
